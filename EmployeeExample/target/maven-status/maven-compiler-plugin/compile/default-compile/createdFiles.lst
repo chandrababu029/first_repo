@@ -1,0 +1,8 @@
+com\org\employee\EmployeeExample\repository\EmpRepository.class
+com\org\employee\EmployeeExample\service\EmpService.class
+com\org\employee\EmployeeExample\controller\EmpController.class
+com\org\employee\EmployeeExample\EmployeeExampleApplication.class
+com\org\employee\EmployeeExample\model\EmployeeAddress.class
+com\org\employee\EmployeeExample\model\EmployeeCurrentAddress.class
+com\org\employee\EmployeeExample\model\EmployeePermanentAddress.class
+com\org\employee\EmployeeExample\model\EmployeeDetails.class
