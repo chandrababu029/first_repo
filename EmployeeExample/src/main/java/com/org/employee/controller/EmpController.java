@@ -26,7 +26,7 @@ public class EmpController {
         return (List<EmployeeDetails>) empService.getEmpDetails();
     }
 
-    @GetMapping("/address")
+    @GetMapping("/empAddress")
     public List<EmployeeAddress> getAddress() {
         List<EmployeeAddress> address = empService.getEmpAddress();
         return address;
